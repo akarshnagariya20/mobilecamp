@@ -1,0 +1,18 @@
+/* Responsive css 1200px */
+@media (min-width: 1200px) {
+	.aps-container {max-width:1180px;}
+	.aps-product-pic {width:50%;}
+	.aps-main-features, .aps-video-col {width:50%;}
+	.aps-flipper {height:132px;}
+	.aps-flip-icon, .aps-flip-icon:before {line-height:110px;}
+	.aps-products-grid li  {width:33.3333%;}
+	.aps-pub-rating li, .aps-user-rating li {width:25%;}
+	.aps-rating-text-box {width:540px;}
+	.aps-related-products li {width:33.3333%;}
+	.aps-current-dp, .aps-dropdown ul {width:220px;}
+	#apsReviewForm .aps-text, #apsReviewForm .aps-textarea {width:620px;}
+	.slider-aps {width:570px;}
+	.aps-gallery-thumbs li {width:25%;}
+	.aps-wd-products li {width:33.3333%;}
+	.aps-products-list .aps-product-details {width:600px;}
+}

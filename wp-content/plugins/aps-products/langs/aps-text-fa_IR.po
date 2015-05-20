@@ -1,0 +1,1803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: APS Arena Products v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-01 19:37:59+0000\n"
+"Last-Translator: admin <admin@local.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Farsi\n"
+"X-Poedit-Country: IRAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: aps-products.php:106
+#: inc/aps-control.php:9
+#: inc/aps-control.php:14
+#@ default
+#@ aps-text
+msgid "Settings"
+msgstr ""
+
+#: inc/aps-archive.php:102
+#: inc/aps-index.php:97
+#: inc/aps-search.php:92
+#@ aps-text
+msgid "Date (default)"
+msgstr ""
+
+#: inc/aps-archive.php:103
+#: inc/aps-index.php:98
+#: inc/aps-search.php:93
+#@ aps-text
+msgid "Name (A-Z)"
+msgstr ""
+
+#: inc/aps-archive.php:104
+#: inc/aps-index.php:99
+#: inc/aps-search.php:94
+#@ aps-text
+msgid "Name (Z-A)"
+msgstr ""
+
+#: inc/aps-archive.php:105
+#: inc/aps-index.php:100
+#: inc/aps-search.php:95
+#@ aps-text
+msgid "Rating (high > low)"
+msgstr ""
+
+#: inc/aps-archive.php:106
+#: inc/aps-index.php:101
+#: inc/aps-search.php:96
+#@ aps-text
+msgid "Rating (low > high)"
+msgstr ""
+
+#: inc/aps-archive.php:107
+#: inc/aps-index.php:102
+#: inc/aps-search.php:97
+#@ aps-text
+msgid "Reviews (high > low)"
+msgstr ""
+
+#: inc/aps-archive.php:108
+#: inc/aps-index.php:103
+#: inc/aps-search.php:98
+#@ aps-text
+msgid "Reviews (low > high)"
+msgstr ""
+
+#: inc/aps-archive.php:144
+#: inc/aps-attributes.php:47
+#: inc/aps-attributes.php:242
+#: inc/aps-control.php:219
+#: inc/aps-index.php:132
+#: inc/aps-search.php:127
+#: inc/aps-widgets.php:647
+#@ aps-text
+msgid "Display"
+msgstr ""
+
+#: inc/aps-archive.php:146
+#: inc/aps-index.php:134
+#: inc/aps-search.php:129
+#@ aps-text
+msgid "Grid View"
+msgstr ""
+
+#: inc/aps-archive.php:147
+#: inc/aps-index.php:135
+#: inc/aps-search.php:130
+#@ aps-text
+msgid "List View"
+msgstr ""
+
+#: inc/aps-archive.php:218
+#: inc/aps-index.php:204
+#: inc/aps-post.php:1035
+#: inc/aps-search.php:184
+#: inc/aps-widgets.php:177
+#@ aps-text
+msgid "Search"
+msgstr ""
+
+#: inc/aps-archive.php:248
+#: inc/aps-index.php:234
+#: inc/aps-search.php:214
+#@ aps-text
+msgid "View Details"
+msgstr ""
+
+#: inc/aps-archive.php:255
+#: inc/aps-index.php:241
+#: inc/aps-search.php:221
+#: inc/aps-single.php:32
+#@ aps-text
+msgid "Success"
+msgstr ""
+
+#: inc/aps-archive.php:255
+#: inc/aps-index.php:241
+#: inc/aps-search.php:221
+#: inc/aps-single.php:32
+#@ aps-text
+msgid "You have added"
+msgstr ""
+
+#: inc/aps-archive.php:255
+#: inc/aps-index.php:241
+#: inc/aps-search.php:221
+#: inc/aps-single.php:32
+#@ aps-text
+msgid "to your"
+msgstr ""
+
+#: inc/aps-archive.php:255
+#: inc/aps-index.php:241
+#: inc/aps-search.php:221
+#: inc/aps-single.php:32
+#@ aps-text
+msgid "comparison list"
+msgstr ""
+
+#: inc/aps-archive.php:255
+#: inc/aps-index.php:241
+#: inc/aps-search.php:221
+#: inc/aps-single.php:32
+#@ aps-text
+msgid "Add to Compare"
+msgstr ""
+
+#: inc/aps-archive.php:256
+#: inc/aps-index.php:242
+#: inc/aps-search.php:222
+#@ aps-text
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/aps-archive.php:277
+#: inc/aps-comparisons.php:75
+#: inc/aps-index.php:263
+#@ aps-text
+msgid "Nothing to display yet."
+msgstr ""
+
+#: inc/aps-attributes.php:9
+#@ aps-text
+msgid "APS Attributes Groups"
+msgstr ""
+
+#: inc/aps-attributes.php:22
+#@ aps-text
+msgid "Add Group"
+msgstr ""
+
+#: inc/aps-attributes.php:24
+#: inc/aps-attributes.php:218
+#: inc/aps-attributes.php:486
+#: inc/aps-control.php:70
+#: inc/aps-control.php:115
+#: inc/aps-control.php:147
+#: inc/aps-control.php:187
+#: inc/aps-control.php:228
+#: inc/aps-control.php:270
+#: inc/aps-control.php:303
+#: inc/aps-control.php:339
+#@ aps-text
+msgid "Reset Default"
+msgstr ""
+
+#: inc/aps-attributes.php:29
+#: inc/aps-attributes.php:222
+#: inc/aps-attributes.php:490
+#: inc/aps-control.php:74
+#: inc/aps-control.php:119
+#: inc/aps-control.php:151
+#: inc/aps-control.php:191
+#: inc/aps-control.php:232
+#: inc/aps-control.php:274
+#: inc/aps-control.php:307
+#: inc/aps-control.php:343
+#@ aps-text
+msgid "Save Changes"
+msgstr ""
+
+#: inc/aps-attributes.php:35
+#@ aps-text
+msgid "Group Title"
+msgstr ""
+
+#: inc/aps-attributes.php:39
+#: inc/aps-control.php:137
+#@ aps-text
+msgid "Icon"
+msgstr ""
+
+#: inc/aps-attributes.php:188
+#@ aps-text
+msgid "APS Products Attributes"
+msgstr ""
+
+#: inc/aps-attributes.php:213
+#@ aps-text
+msgid "Add Attribute"
+msgstr ""
+
+#: inc/aps-attributes.php:228
+#@ aps-text
+msgid "Attribute Title"
+msgstr ""
+
+#: inc/aps-attributes.php:232
+#@ aps-text
+msgid "Input Type"
+msgstr ""
+
+#: inc/aps-attributes.php:234
+#@ aps-text
+msgid "Text input"
+msgstr ""
+
+#: inc/aps-attributes.php:235
+#@ aps-text
+msgid "Textarea"
+msgstr ""
+
+#: inc/aps-attributes.php:236
+#@ aps-text
+msgid "Select Box"
+msgstr ""
+
+#: inc/aps-attributes.php:237
+#@ aps-text
+msgid "Check Box"
+msgstr ""
+
+#: inc/aps-attributes.php:238
+#@ aps-text
+msgid "Date Picker"
+msgstr ""
+
+#: inc/aps-attributes.php:246
+#@ aps-text
+msgid "Tooltip Info"
+msgstr ""
+
+#: inc/aps-attributes.php:254
+#@ aps-text
+msgid "Add Option"
+msgstr ""
+
+#: inc/aps-attributes.php:257
+#@ aps-text
+msgid "No Groups"
+msgstr ""
+
+#: inc/aps-attributes.php:470
+#@ aps-text
+msgid "APS Products Filters"
+msgstr ""
+
+#: inc/aps-attributes.php:483
+#@ aps-text
+msgid "Add Filter"
+msgstr ""
+
+#: inc/aps-attributes.php:496
+#@ aps-text
+msgid "Filter Name"
+msgstr ""
+
+#: inc/aps-attributes.php:500
+#@ aps-text
+msgid "Filter Slug"
+msgstr ""
+
+#: inc/aps-attributes.php:504
+#@ aps-text
+msgid "Add / Edit / View"
+msgstr ""
+
+#: inc/aps-attributes.php:505
+#@ aps-text
+msgid "Filter Terms"
+msgstr ""
+
+#: inc/aps-attributes.php:644
+#@ aps-text
+msgid "Container Width"
+msgstr ""
+
+#: inc/aps-attributes.php:647
+#@ aps-text
+msgid "Select container width that best fit with your theme."
+msgstr ""
+
+#: inc/aps-attributes.php:650
+#@ aps-text
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/aps-attributes.php:653
+#@ aps-text
+msgid "Enable / Disable responsive layout."
+msgstr ""
+
+#: inc/aps-attributes.php:656
+#@ aps-text
+msgid "Content Display"
+msgstr ""
+
+#: inc/aps-attributes.php:659
+#@ aps-text
+msgid "Select content and sidebar positions."
+msgstr ""
+
+#: inc/aps-attributes.php:662
+#@ aps-text
+msgid "Skin (color theme)"
+msgstr ""
+
+#: inc/aps-attributes.php:665
+#@ aps-text
+msgid "Blue Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:666
+#@ aps-text
+msgid "Light Blue Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:667
+#@ aps-text
+msgid "Green Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:668
+#@ aps-text
+msgid "Sea Green Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:669
+#@ aps-text
+msgid "Orange Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:670
+#@ aps-text
+msgid "Red Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:671
+#@ aps-text
+msgid "Pink Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:672
+#@ aps-text
+msgid "Purple Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:673
+#@ aps-text
+msgid "Brown Skin"
+msgstr ""
+
+#: inc/aps-attributes.php:674
+#@ aps-text
+msgid "Custom Skin Colors"
+msgstr ""
+
+#: inc/aps-attributes.php:676
+#@ aps-text
+msgid "Select a skin that best fit with your theme or select custom to choose your own colors below."
+msgstr ""
+
+#: inc/aps-attributes.php:679
+#@ aps-text
+msgid "Custom Color 1"
+msgstr ""
+
+#: inc/aps-attributes.php:681
+#@ aps-text
+msgid "Select a lighter skin color."
+msgstr ""
+
+#: inc/aps-attributes.php:684
+#@ aps-text
+msgid "Custom Color 2"
+msgstr ""
+
+#: inc/aps-attributes.php:686
+#@ aps-text
+msgid "Select a skin color, a number of elements use this color as background."
+msgstr ""
+
+#: inc/aps-attributes.php:689
+#@ aps-text
+msgid "Custom Color 3"
+msgstr ""
+
+#: inc/aps-attributes.php:691
+#@ aps-text
+msgid "Select a darker version of skin color."
+msgstr ""
+
+#: inc/aps-attributes.php:694
+#@ aps-text
+msgid "Border / Box Shadow"
+msgstr ""
+
+#: inc/aps-attributes.php:697
+#@ aps-text
+msgid "Select border or box shadow used for image containers etc."
+msgstr ""
+
+#: inc/aps-attributes.php:700
+#@ aps-text
+msgid "Group Icons"
+msgstr ""
+
+#: inc/aps-attributes.php:703
+#@ aps-text
+msgid "Select to display device specifications groups icons."
+msgstr ""
+
+#: inc/aps-attributes.php:706
+#@ aps-text
+msgid "Custom CSS Stylesheet"
+msgstr ""
+
+#: inc/aps-attributes.php:709
+#@ aps-text
+msgid "If you want to apply your own CSS styles (plugin's styles will be disabled), place your complete css code in custom-styles.css (located in \"/wp-content/plugins/arena-mobiles/css/pre/\" directory) and press save settings."
+msgstr ""
+
+#: inc/aps-attributes.php:728
+#@ aps-text
+msgid "Main Index Page"
+msgstr ""
+
+#: inc/aps-attributes.php:731
+#@ aps-text
+msgid "Select Main Index Page, A Page where all mobiles (posts) will display with pagination."
+msgstr ""
+
+#: inc/aps-attributes.php:734
+#@ aps-text
+msgid "Main Index Heading"
+msgstr ""
+
+#: inc/aps-attributes.php:736
+#@ aps-text
+msgid "Enter main index page heading, this will display on main index page."
+msgstr ""
+
+#: inc/aps-attributes.php:739
+#@ aps-text
+msgid "Compare Page"
+msgstr ""
+
+#: inc/aps-attributes.php:742
+#@ aps-text
+msgid "Select custom Compare Page to display custom comparisons."
+msgstr ""
+
+#: inc/aps-attributes.php:745
+#@ aps-text
+msgid "Comparisons List Page"
+msgstr ""
+
+#: inc/aps-attributes.php:748
+#@ aps-text
+msgid "Select a page to display comparisons list."
+msgstr ""
+
+#: inc/aps-attributes.php:751
+#@ aps-text
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/aps-attributes.php:753
+#@ aps-text
+msgid "Enter the number of products (posts) to display in main index page, search results and brands archives."
+msgstr ""
+
+#: inc/aps-attributes.php:756
+#@ aps-text
+msgid "Product Slug"
+msgstr ""
+
+#: inc/aps-attributes.php:758
+#@ aps-text
+msgid "Enter the product slug (slug displayed in the url of product e.g yoursite/slug/your-product)."
+msgstr ""
+
+#: inc/aps-attributes.php:761
+#@ aps-text
+msgid "Brands Dropdown Title"
+msgstr ""
+
+#: inc/aps-attributes.php:763
+#@ aps-text
+msgid "Enter Brands dropdown title, this will display on main index page brands dropdown."
+msgstr ""
+
+#: inc/aps-attributes.php:766
+#@ aps-text
+msgid "Brands Dropdown Sort"
+msgstr ""
+
+#: inc/aps-attributes.php:769
+#@ aps-text
+msgid "Select Brands dropdown sorting order, sorting order can be by name, id or products count."
+msgstr ""
+
+#: inc/aps-attributes.php:772
+#@ aps-text
+msgid "Brand Slug"
+msgstr ""
+
+#: inc/aps-attributes.php:774
+#@ aps-text
+msgid "Enter the brand slug (slug displayed in the url of brands archives)."
+msgstr ""
+
+#: inc/aps-attributes.php:777
+#@ aps-text
+msgid "Filters Title"
+msgstr ""
+
+#: inc/aps-attributes.php:779
+#@ aps-text
+msgid "Enter a title for filters switch (filters toggle anchor tag displaying near products sort controls)"
+msgstr ""
+
+#: inc/aps-attributes.php:782
+#@ aps-text
+msgid "Comparison Slug"
+msgstr ""
+
+#: inc/aps-attributes.php:784
+#@ aps-text
+msgid "Enter the comparison slug (slug displayed in the url of comparison e.g yoursite/slug/product1-vs-product2)."
+msgstr ""
+
+#: inc/aps-attributes.php:787
+#@ aps-text
+msgid "Search Archive Heading"
+msgstr ""
+
+#: inc/aps-attributes.php:789
+#, php-format
+#@ aps-text
+msgid "Enter title heading for search results archive, %term% will be replaced with search term."
+msgstr ""
+
+#: inc/aps-attributes.php:792
+#@ aps-text
+msgid "Brands Archive Heading"
+msgstr ""
+
+#: inc/aps-attributes.php:794
+#, php-format
+#@ aps-text
+msgid "Enter title heading for Brands archive, %brand% will be replaced with brand name."
+msgstr ""
+
+#: inc/aps-attributes.php:797
+#@ aps-text
+msgid "More Products Heading"
+msgstr ""
+
+#: inc/aps-attributes.php:799
+#, php-format
+#@ aps-text
+msgid "Enter title heading for More Products widget, %brand% will be replaced with brand name."
+msgstr ""
+
+#: inc/aps-attributes.php:802
+#@ aps-text
+msgid "More Products Number"
+msgstr ""
+
+#: inc/aps-attributes.php:804
+#@ aps-text
+msgid "How much products you want to show in More Products widget."
+msgstr ""
+
+#: inc/aps-attributes.php:807
+#@ aps-text
+msgid "Our Rating Heading"
+msgstr ""
+
+#: inc/aps-attributes.php:809
+#@ aps-text
+msgid "Enter title heading for Our Rating widget (shown in the product overview tab)."
+msgstr ""
+
+#: inc/aps-attributes.php:812
+#@ aps-text
+msgid "Our Rating Text"
+msgstr ""
+
+#: inc/aps-attributes.php:814
+#@ aps-text
+msgid "Enter some information text for Our Rating widget (shown in the product overview tab)."
+msgstr ""
+
+#: inc/aps-attributes.php:817
+#@ aps-text
+msgid "Reviews Rating Heading"
+msgstr ""
+
+#: inc/aps-attributes.php:819
+#@ aps-text
+msgid "Enter title heading for Users Rating widget (shown in the product reviews tab)."
+msgstr ""
+
+#: inc/aps-attributes.php:822
+#@ aps-text
+msgid "Reviews Rating Text"
+msgstr ""
+
+#: inc/aps-attributes.php:824
+#, php-format
+#@ aps-text
+msgid "Enter some information text for Users Rating widget, %num% will be replaced with number of reviews."
+msgstr ""
+
+#: inc/aps-attributes.php:827
+#@ aps-text
+msgid "Post a Review Note"
+msgstr ""
+
+#: inc/aps-attributes.php:829
+#@ aps-text
+msgid "Enter some information text for post a review (shown in the bottom of users rating widget)."
+msgstr ""
+
+#: inc/aps-attributes.php:840
+#@ aps-text
+msgid "Switch Zoom"
+msgstr ""
+
+#: inc/aps-attributes.php:842
+#: inc/aps-attributes.php:872
+#: inc/aps-attributes.php:878
+#: inc/aps-attributes.php:890
+#: inc/aps-attributes.php:914
+#: inc/aps-attributes.php:926
+#: inc/aps-attributes.php:932
+#@ aps-text
+msgid "Enable"
+msgstr ""
+
+#: inc/aps-attributes.php:842
+#: inc/aps-attributes.php:872
+#: inc/aps-attributes.php:878
+#: inc/aps-attributes.php:890
+#: inc/aps-attributes.php:914
+#: inc/aps-attributes.php:926
+#: inc/aps-attributes.php:932
+#@ aps-text
+msgid "Disable"
+msgstr ""
+
+#: inc/aps-attributes.php:843
+#@ aps-text
+msgid "Enable or Disable main image zoom plugin."
+msgstr ""
+
+#: inc/aps-attributes.php:846
+#@ aps-text
+msgid "Lens Shape"
+msgstr ""
+
+#: inc/aps-attributes.php:849
+#@ aps-text
+msgid "Choose a lens shape for main image zoom plugin."
+msgstr ""
+
+#: inc/aps-attributes.php:852
+#@ aps-text
+msgid "Lens Size"
+msgstr ""
+
+#: inc/aps-attributes.php:855
+#@ aps-text
+msgid "Select initial zoom lens size."
+msgstr ""
+
+#: inc/aps-attributes.php:858
+#@ aps-text
+msgid "Lens Border"
+msgstr ""
+
+#: inc/aps-attributes.php:861
+#@ aps-text
+msgid "Select lens border thickness in pixels."
+msgstr ""
+
+#: inc/aps-attributes.php:864
+#@ aps-text
+msgid "Zoom Type"
+msgstr ""
+
+#: inc/aps-attributes.php:867
+#@ aps-text
+msgid "Select the type of zoom."
+msgstr ""
+
+#: inc/aps-attributes.php:870
+#@ aps-text
+msgid "Scroll Zoom"
+msgstr ""
+
+#: inc/aps-attributes.php:873
+#@ aps-text
+msgid "Select zoom scrolling (mouse wheel scrolling)."
+msgstr ""
+
+#: inc/aps-attributes.php:876
+#@ aps-text
+msgid "Easing"
+msgstr ""
+
+#: inc/aps-attributes.php:879
+#@ aps-text
+msgid "Select easing effect for zoom."
+msgstr ""
+
+#: inc/aps-attributes.php:882
+#@ aps-text
+msgid "Easing Amount"
+msgstr ""
+
+#: inc/aps-attributes.php:885
+#@ aps-text
+msgid "Select the amount of easing effect."
+msgstr ""
+
+#: inc/aps-attributes.php:888
+#@ aps-text
+msgid "Responsive"
+msgstr ""
+
+#: inc/aps-attributes.php:891
+#@ aps-text
+msgid "Enable / Disable responsive layout for main image zoom plugin."
+msgstr ""
+
+#: inc/aps-attributes.php:894
+#@ aps-text
+msgid "Zoom Window Width"
+msgstr ""
+
+#: inc/aps-attributes.php:896
+#@ aps-text
+msgid "Enter the width of zoom window eg(400)."
+msgstr ""
+
+#: inc/aps-attributes.php:899
+#@ aps-text
+msgid "Zoom Window Height"
+msgstr ""
+
+#: inc/aps-attributes.php:901
+#@ aps-text
+msgid "Enter the wheight of zoom window eg(400)."
+msgstr ""
+
+#: inc/aps-attributes.php:912
+#@ aps-text
+msgid "Switch Lightbox"
+msgstr ""
+
+#: inc/aps-attributes.php:915
+#@ aps-text
+msgid "Enable or Disable Gallery Images Lightbox plugin."
+msgstr ""
+
+#: inc/aps-attributes.php:918
+#@ aps-text
+msgid "Lightbox Effects"
+msgstr ""
+
+#: inc/aps-attributes.php:921
+#@ aps-text
+msgid "Choose the gallery images lightbox effects."
+msgstr ""
+
+#: inc/aps-attributes.php:924
+#@ aps-text
+msgid "Keyboard Nav"
+msgstr ""
+
+#: inc/aps-attributes.php:927
+#@ aps-text
+msgid "Enable / disable keyboard navigation for Lightbox images sliding."
+msgstr ""
+
+#: inc/aps-attributes.php:930
+#@ aps-text
+msgid "Close on Overlay Click"
+msgstr ""
+
+#: inc/aps-attributes.php:933
+#@ aps-text
+msgid "Select to close lightbox when overlay is clicked."
+msgstr ""
+
+#: inc/aps-compare.php:24
+#@ aps-text
+msgid "Search and Add Products to Comapre"
+msgstr ""
+
+#: inc/aps-compare.php:53
+#@ aps-text
+msgid "Product Name"
+msgstr ""
+
+#: inc/aps-compare.php:54
+#@ aps-text
+msgid "Product Image"
+msgstr ""
+
+#: inc/aps-compare.php:55
+#: inc/aps-settings.php:72
+#@ aps-text
+msgid "Our Rating"
+msgstr ""
+
+#: inc/aps-compare.php:56
+#: inc/aps-post.php:87
+#: inc/aps-widgets.php:52
+#@ aps-text
+msgid "Brand"
+msgstr ""
+
+#: inc/aps-compare.php:68
+#@ aps-text
+msgid "Remove Compare"
+msgstr ""
+
+#: inc/aps-compare.php:83
+#: inc/aps-post.php:968
+#@ aps-text
+msgid "vs"
+msgstr ""
+
+#: inc/aps-comparisons.php:53
+#@ aps-text
+msgid "Published on"
+msgstr ""
+
+#: inc/aps-comparisons.php:54
+#@ aps-text
+msgid "By"
+msgstr ""
+
+#: inc/aps-comparisons.php:55
+#: inc/aps-widgets.php:376
+#@ aps-text
+msgid "View Comparison"
+msgstr ""
+
+#: inc/aps-control.php:13
+#@ aps-text
+msgid "Design"
+msgstr ""
+
+#: inc/aps-control.php:15
+#: inc/aps-post.php:219
+#@ aps-text
+msgid "Features"
+msgstr ""
+
+#: inc/aps-control.php:16
+#@ aps-text
+msgid "Rating Bars"
+msgstr ""
+
+#: inc/aps-control.php:17
+#: inc/aps-post.php:226
+#@ aps-text
+msgid "Tabs"
+msgstr ""
+
+#: inc/aps-control.php:18
+#@ aps-text
+msgid "Zoom"
+msgstr ""
+
+#: inc/aps-control.php:19
+#: inc/aps-post.php:220
+#@ aps-text
+msgid "Gallery"
+msgstr ""
+
+#: inc/aps-control.php:20
+#@ aps-text
+msgid "Affiliates"
+msgstr ""
+
+#: inc/aps-control.php:133
+#: inc/aps-post.php:177
+#@ aps-text
+msgid "Title"
+msgstr ""
+
+#: inc/aps-control.php:166
+#@ aps-text
+msgid "Rating Title"
+msgstr ""
+
+#: inc/aps-control.php:170
+#@ aps-text
+msgid "Default Value"
+msgstr ""
+
+#: inc/aps-control.php:178
+#@ aps-text
+msgid "Info (tooltip)"
+msgstr ""
+
+#: inc/aps-control.php:185
+#@ aps-text
+msgid "Add Bar"
+msgstr ""
+
+#: inc/aps-control.php:207
+#@ aps-text
+msgid "Tab Title"
+msgstr ""
+
+#: inc/aps-control.php:211
+#@ aps-text
+msgid "Content"
+msgstr ""
+
+#: inc/aps-control.php:226
+#@ aps-text
+msgid "Add Tab"
+msgstr ""
+
+#: inc/aps-control.php:322
+#@ aps-text
+msgid "Store Name"
+msgstr ""
+
+#: inc/aps-control.php:326
+#@ aps-text
+msgid "Logo URL"
+msgstr ""
+
+#: inc/aps-control.php:330
+#@ aps-text
+msgid "Select / Upload"
+msgstr ""
+
+#: inc/aps-control.php:331
+#@ aps-text
+msgid "Logo Image"
+msgstr ""
+
+#: inc/aps-control.php:337
+#@ aps-text
+msgid "Add Store"
+msgstr ""
+
+#: inc/aps-control.php:563
+#@ aps-text
+msgid "Select Logo Image"
+msgstr ""
+
+#: inc/aps-control.php:566
+#: inc/aps-post.php:256
+#: inc/aps-post.php:547
+#@ aps-text
+msgid "Add Image"
+msgstr ""
+
+#: inc/aps-functions.php:55
+#@ aps-text
+msgid "APS Sidebar"
+msgstr ""
+
+#: inc/aps-functions.php:57
+#@ aps-text
+msgid "Widgets in this sidebar are displayed in the sidebar of APS templates (archives, single, index, compare)"
+msgstr ""
+
+#: inc/aps-functions.php:360
+#@ aps-text
+msgid "There is something went wrong please try again"
+msgstr ""
+
+#: inc/aps-functions.php:383
+#@ aps-text
+msgid "Please enter an informative title"
+msgstr ""
+
+#: inc/aps-functions.php:388
+#@ aps-text
+msgid "Please enter a brief and informative review"
+msgstr ""
+
+#: inc/aps-functions.php:423
+#@ aps-text
+msgid "Congratulations: Your review has been added and will be published soon."
+msgstr ""
+
+#: inc/aps-functions.php:450
+#@ aps-text
+msgid "Posted on"
+msgstr ""
+
+#: inc/aps-functions.php:450
+#, php-format
+#@ aps-text
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/aps-functions.php:526
+#: inc/aps-single.php:340
+#@ aps-text
+msgid "Reviews"
+msgstr ""
+
+#: inc/aps-functions.php:595
+#@ aps-text
+msgid "Clone Product"
+msgstr ""
+
+#: inc/aps-post.php:17
+#: inc/aps-widgets.php:308
+#: inc/aps-widgets.php:309
+#: inc/aps-widgets.php:310
+#: inc/aps-widgets.php:311
+#: inc/aps-widgets.php:548
+#: inc/aps-widgets.php:549
+#: inc/aps-widgets.php:550
+#: inc/aps-widgets.php:551
+#@ aps-text
+msgid "Products"
+msgstr ""
+
+#: inc/aps-post.php:19
+#: inc/aps-post.php:20
+#: inc/aps-post.php:937
+#: inc/aps-post.php:946
+#: inc/aps-post.php:955
+#@ aps-text
+msgid "Product"
+msgstr ""
+
+#: inc/aps-post.php:21
+#: inc/aps-settings.php:58
+#@ aps-text
+msgid "APS Products"
+msgstr ""
+
+#: inc/aps-post.php:22
+#: inc/aps-post.php:23
+#@ aps-text
+msgid "Add New Product"
+msgstr ""
+
+#: inc/aps-post.php:24
+#@ aps-text
+msgid "Edit Product"
+msgstr ""
+
+#: inc/aps-post.php:25
+#@ aps-text
+msgid "New Product"
+msgstr ""
+
+#: inc/aps-post.php:26
+#@ aps-text
+msgid "View Product"
+msgstr ""
+
+#: inc/aps-post.php:27
+#@ aps-text
+msgid "Search Products"
+msgstr ""
+
+#: inc/aps-post.php:28
+#@ aps-text
+msgid "No Products found"
+msgstr ""
+
+#: inc/aps-post.php:29
+#@ aps-text
+msgid "No Products found in Trash"
+msgstr ""
+
+#: inc/aps-post.php:59
+#, php-format
+#@ aps-text
+msgid "Product updated. <a href=\"%s\">View Product</a>"
+msgstr ""
+
+#: inc/aps-post.php:60
+#@ aps-text
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/aps-post.php:61
+#@ aps-text
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/aps-post.php:62
+#@ aps-text
+msgid "Product updated."
+msgstr ""
+
+#: inc/aps-post.php:64
+#, php-format
+#@ aps-text
+msgid "Product restored to revision from %s"
+msgstr ""
+
+#: inc/aps-post.php:65
+#, php-format
+#@ aps-text
+msgid "Product published. <a href=\"%s\">View Product</a>"
+msgstr ""
+
+#: inc/aps-post.php:66
+#@ aps-text
+msgid "Product saved."
+msgstr ""
+
+#: inc/aps-post.php:67
+#, php-format
+#@ aps-text
+msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
+msgstr ""
+
+#: inc/aps-post.php:68
+#, php-format
+#@ aps-text
+msgid "Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Product</a>"
+msgstr ""
+
+#: inc/aps-post.php:70
+#@ default
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/aps-post.php:71
+#, php-format
+#@ aps-text
+msgid "Product draft updated. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
+msgstr ""
+
+#: inc/aps-post.php:86
+#: inc/aps-settings.php:63
+#: inc/aps-widgets.php:631
+#@ aps-text
+msgid "Brands"
+msgstr ""
+
+#: inc/aps-post.php:88
+#@ aps-text
+msgid "Search Brands"
+msgstr ""
+
+#: inc/aps-post.php:89
+#@ aps-text
+msgid "Popular Brands"
+msgstr ""
+
+#: inc/aps-post.php:90
+#@ aps-text
+msgid "All Brands"
+msgstr ""
+
+#: inc/aps-post.php:93
+#@ aps-text
+msgid "Edit Brand"
+msgstr ""
+
+#: inc/aps-post.php:94
+#@ aps-text
+msgid "Update Brand"
+msgstr ""
+
+#: inc/aps-post.php:95
+#@ aps-text
+msgid "Add New Brand"
+msgstr ""
+
+#: inc/aps-post.php:96
+#@ aps-text
+msgid "New Brand Name"
+msgstr ""
+
+#: inc/aps-post.php:97
+#@ aps-text
+msgid "Separate Brands with commas"
+msgstr ""
+
+#: inc/aps-post.php:98
+#@ aps-text
+msgid "Add or remove Brands"
+msgstr ""
+
+#: inc/aps-post.php:99
+#@ aps-text
+msgid "Choose from the most used Brands"
+msgstr ""
+
+#: inc/aps-post.php:100
+#@ aps-text
+msgid "No Brands found."
+msgstr ""
+
+#: inc/aps-post.php:101
+#: inc/aps-post.php:179
+#: inc/aps-widgets.php:576
+#@ aps-text
+msgid "APS Brands"
+msgstr ""
+
+#: inc/aps-post.php:159
+#@ aps-text
+msgid "Select A Brand"
+msgstr ""
+
+#: inc/aps-post.php:178
+#@ aps-text
+msgid "Image"
+msgstr ""
+
+#: inc/aps-post.php:180
+#: inc/aps-widgets.php:53
+#@ aps-text
+msgid "Rating"
+msgstr ""
+
+#: inc/aps-post.php:182
+#@ aps-text
+msgid "Date"
+msgstr ""
+
+#: inc/aps-post.php:208
+#@ aps-text
+msgid "APS Product Data"
+msgstr ""
+
+#: inc/aps-post.php:221
+#@ aps-text
+msgid "Videos"
+msgstr ""
+
+#: inc/aps-post.php:222
+#@ aps-text
+msgid "Ratings"
+msgstr ""
+
+#: inc/aps-post.php:223
+#@ aps-text
+msgid "Attributes"
+msgstr ""
+
+#: inc/aps-post.php:224
+#: inc/aps-settings.php:66
+#@ aps-text
+msgid "Filters"
+msgstr ""
+
+#: inc/aps-post.php:225
+#@ aps-text
+msgid "Offers"
+msgstr ""
+
+#: inc/aps-post.php:253
+#@ aps-text
+msgid "Select Image"
+msgstr ""
+
+#: inc/aps-post.php:278
+#@ aps-text
+msgid "Video Host"
+msgstr ""
+
+#: inc/aps-post.php:286
+#@ aps-text
+msgid "Video ID"
+msgstr ""
+
+#: inc/aps-post.php:293
+#@ aps-text
+msgid "Add Video"
+msgstr ""
+
+#: inc/aps-post.php:303
+#@ aps-text
+msgid "Over all Rating"
+msgstr ""
+
+#: inc/aps-post.php:427
+#@ aps-text
+msgid "Store"
+msgstr ""
+
+#: inc/aps-post.php:437
+#@ aps-text
+msgid "Offer Title"
+msgstr ""
+
+#: inc/aps-post.php:441
+#@ aps-text
+msgid "Offer Price"
+msgstr ""
+
+#: inc/aps-post.php:445
+#@ aps-text
+msgid "Offer URL"
+msgstr ""
+
+#: inc/aps-post.php:452
+#@ aps-text
+msgid "Add Offer"
+msgstr ""
+
+#: inc/aps-post.php:471
+#: inc/aps-post.php:477
+#: inc/aps-post.php:483
+#@ aps-text
+msgid "Custom Tab"
+msgstr ""
+
+#: inc/aps-post.php:544
+#@ aps-text
+msgid "Select Gallery Image"
+msgstr ""
+
+#: inc/aps-post.php:872
+#@ aps-text
+msgid "Comparisons"
+msgstr ""
+
+#: inc/aps-post.php:874
+#@ aps-text
+msgid "Comparison"
+msgstr ""
+
+#: inc/aps-post.php:875
+#@ aps-text
+msgid "APS Comparison"
+msgstr ""
+
+#: inc/aps-post.php:876
+#: inc/aps-widgets.php:336
+#@ aps-text
+msgid "APS Comparisons"
+msgstr ""
+
+#: inc/aps-post.php:877
+#: inc/aps-post.php:878
+#@ aps-text
+msgid "Add New APS Comparison"
+msgstr ""
+
+#: inc/aps-post.php:879
+#@ aps-text
+msgid "Edit APS Comparison"
+msgstr ""
+
+#: inc/aps-post.php:880
+#@ aps-text
+msgid "New APS Comparison"
+msgstr ""
+
+#: inc/aps-post.php:881
+#@ aps-text
+msgid "View APS Comparison"
+msgstr ""
+
+#: inc/aps-post.php:882
+#@ aps-text
+msgid "Search APS Comparisons"
+msgstr ""
+
+#: inc/aps-post.php:883
+#@ aps-text
+msgid "No APS Comparisons found"
+msgstr ""
+
+#: inc/aps-post.php:884
+#@ aps-text
+msgid "No APS Comparisons found in Trash"
+msgstr ""
+
+#: inc/aps-post.php:910
+#@ aps-text
+msgid "APS Products Comparison"
+msgstr ""
+
+#: inc/aps-post.php:932
+#@ aps-text
+msgid "Please add upto 3 products to compare"
+msgstr ""
+
+#: inc/aps-post.php:939
+#: inc/aps-post.php:948
+#: inc/aps-post.php:957
+#@ aps-text
+msgid "Select Product to add"
+msgstr ""
+
+#: inc/aps-post.php:1029
+#@ aps-text
+msgid "Term"
+msgstr ""
+
+#: inc/aps-post.php:1030
+#@ aps-text
+msgid "Terms"
+msgstr ""
+
+#: inc/aps-post.php:1036
+#@ aps-text
+msgid "Popular"
+msgstr ""
+
+#: inc/aps-post.php:1037
+#@ aps-text
+msgid "All"
+msgstr ""
+
+#: inc/aps-post.php:1040
+#@ aps-text
+msgid "Edit"
+msgstr ""
+
+#: inc/aps-post.php:1041
+#@ aps-text
+msgid "Update"
+msgstr ""
+
+#: inc/aps-post.php:1042
+#@ aps-text
+msgid "Add New"
+msgstr ""
+
+#: inc/aps-post.php:1043
+#@ aps-text
+msgid "New"
+msgstr ""
+
+#: inc/aps-post.php:1043
+#@ aps-text
+msgid "Term Name"
+msgstr ""
+
+#: inc/aps-post.php:1044
+#@ aps-text
+msgid "Separate"
+msgstr ""
+
+#: inc/aps-post.php:1044
+#@ aps-text
+msgid "Terms with commas"
+msgstr ""
+
+#: inc/aps-post.php:1045
+#@ aps-text
+msgid "Add or remove"
+msgstr ""
+
+#: inc/aps-post.php:1046
+#@ aps-text
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/aps-post.php:1047
+#@ aps-text
+msgid "No"
+msgstr ""
+
+#: inc/aps-post.php:1047
+#@ aps-text
+msgid "Terms found"
+msgstr ""
+
+#: inc/aps-reviews.php:80
+#@ aps-text
+msgid "Post a Review"
+msgstr ""
+
+#: inc/aps-reviews.php:93
+#@ aps-text
+msgid "&larr; Older Reviews"
+msgstr ""
+
+#: inc/aps-reviews.php:94
+#@ aps-text
+msgid "Newer Reviews &rarr;"
+msgstr ""
+
+#: inc/aps-reviews.php:105
+#@ aps-text
+msgid "Add a Review"
+msgstr ""
+
+#: inc/aps-reviews.php:105
+#@ aps-text
+msgid "Be the first to add a Review"
+msgstr ""
+
+#: inc/aps-reviews.php:107
+#@ aps-text
+msgid "Please post a user review only if you have / had this device."
+msgstr ""
+
+#: inc/aps-reviews.php:112
+#@ aps-text
+msgid "Your Name"
+msgstr ""
+
+#: inc/aps-reviews.php:116
+#@ aps-text
+msgid "Your Email"
+msgstr ""
+
+#: inc/aps-reviews.php:121
+#@ aps-text
+msgid "Review Title"
+msgstr ""
+
+#: inc/aps-reviews.php:125
+#@ aps-text
+msgid "Review Text"
+msgstr ""
+
+#: inc/aps-reviews.php:128
+#@ aps-text
+msgid "Rate this device"
+msgstr ""
+
+#: inc/aps-reviews.php:142
+#@ aps-text
+msgid "Average Rating"
+msgstr ""
+
+#: inc/aps-reviews.php:143
+#@ aps-text
+msgid "based on your selection"
+msgstr ""
+
+#: inc/aps-reviews.php:149
+#@ aps-text
+msgid "Add Review"
+msgstr ""
+
+#: inc/aps-reviews.php:154
+#@ aps-text
+msgid "Sorry, reviews are closed for this device."
+msgstr ""
+
+#: inc/aps-search.php:243
+#@ aps-text
+msgid "No Search Results found for your query."
+msgstr ""
+
+#: inc/aps-settings.php:68
+#, php-format
+#@ aps-text
+msgid "Search Results for %term%"
+msgstr ""
+
+#: inc/aps-settings.php:69
+#, php-format
+#@ aps-text
+msgid "%brand% Products"
+msgstr ""
+
+#: inc/aps-settings.php:70
+#, php-format
+#@ aps-text
+msgid "More Products from %brand%"
+msgstr ""
+
+#: inc/aps-settings.php:73
+#@ aps-text
+msgid "The overall rating is based on review by our experts"
+msgstr ""
+
+#: inc/aps-settings.php:74
+#@ aps-text
+msgid "Overall User's Rating"
+msgstr ""
+
+#: inc/aps-settings.php:75
+#, php-format
+#@ aps-text
+msgid "The overall rating is based on %num% reviews by users."
+msgstr ""
+
+#: inc/aps-settings.php:76
+#@ aps-text
+msgid "Please not that each user review reflects the opinion of it's respectful author."
+msgstr ""
+
+#: inc/aps-single.php:33
+#@ aps-text
+msgid "Compare"
+msgstr ""
+
+#: inc/aps-single.php:276
+#@ aps-text
+msgid "View Offer"
+msgstr ""
+
+#: inc/aps-single.php:325
+#@ aps-text
+msgid "More Products from"
+msgstr ""
+
+#: inc/aps-single.php:340
+#@ aps-text
+msgid "Review"
+msgstr ""
+
+#: inc/aps-single.php:341
+#@ aps-text
+msgid "View specs"
+msgstr ""
+
+#: inc/aps-widgets.php:43
+#@ aps-text
+msgid "successfully added to compare, reloading now..."
+msgstr ""
+
+#: inc/aps-widgets.php:46
+#@ aps-text
+msgid "Click to Add"
+msgstr ""
+
+#: inc/aps-widgets.php:54
+#@ aps-text
+msgid "View Specs"
+msgstr ""
+
+#: inc/aps-widgets.php:65
+#@ aps-text
+msgid "Veiw All Results"
+msgstr ""
+
+#: inc/aps-widgets.php:70
+#@ aps-text
+msgid "No Product Found for your query"
+msgstr ""
+
+#: inc/aps-widgets.php:84
+#@ aps-text
+msgid "APS Live Search (ajax powered instant search widget)"
+msgstr ""
+
+#: inc/aps-widgets.php:90
+#@ aps-text
+msgid "APS Live Search"
+msgstr ""
+
+#: inc/aps-widgets.php:185
+#: inc/aps-widgets.php:300
+#: inc/aps-widgets.php:412
+#: inc/aps-widgets.php:540
+#: inc/aps-widgets.php:639
+#@ aps-text
+msgid "Title:"
+msgstr ""
+
+#: inc/aps-widgets.php:191
+#@ aps-text
+msgid "Show Results:"
+msgstr ""
+
+#: inc/aps-widgets.php:193
+#: inc/aps-widgets.php:194
+#: inc/aps-widgets.php:195
+#: inc/aps-widgets.php:196
+#: inc/aps-widgets.php:197
+#: inc/aps-widgets.php:198
+#@ aps-text
+msgid "Results"
+msgstr ""
+
+#: inc/aps-widgets.php:217
+#@ aps-text
+msgid "Display New Arrivals (APS Products)"
+msgstr ""
+
+#: inc/aps-widgets.php:223
+#@ aps-text
+msgid "APS New Arrivals"
+msgstr ""
+
+#: inc/aps-widgets.php:292
+#@ aps-text
+msgid "New Arrivals"
+msgstr ""
+
+#: inc/aps-widgets.php:306
+#: inc/aps-widgets.php:546
+#@ aps-text
+msgid "Show Products:"
+msgstr ""
+
+#: inc/aps-widgets.php:330
+#@ aps-text
+msgid "Display Comparisons List"
+msgstr ""
+
+#: inc/aps-widgets.php:404
+#@ aps-text
+msgid "Recent Compares"
+msgstr ""
+
+#: inc/aps-widgets.php:418
+#@ aps-text
+msgid "Show Compares:"
+msgstr ""
+
+#: inc/aps-widgets.php:420
+#: inc/aps-widgets.php:421
+#: inc/aps-widgets.php:422
+#: inc/aps-widgets.php:423
+#: inc/aps-widgets.php:424
+#: inc/aps-widgets.php:425
+#: inc/aps-widgets.php:426
+#: inc/aps-widgets.php:427
+#: inc/aps-widgets.php:428
+#@ aps-text
+msgid "Compares"
+msgstr ""
+
+#: inc/aps-widgets.php:447
+#@ aps-text
+msgid "Display Top Rated (APS Products)"
+msgstr ""
+
+#: inc/aps-widgets.php:453
+#@ aps-text
+msgid "APS Top Rated Products"
+msgstr ""
+
+#: inc/aps-widgets.php:532
+#@ aps-text
+msgid "Top Rated"
+msgstr ""
+
+#: inc/aps-widgets.php:570
+#@ aps-text
+msgid "Display Brands List"
+msgstr ""
+
+#: inc/aps-widgets.php:645
+#@ aps-text
+msgid "Number of Products:"
+msgstr ""
+
+#: inc/aps-widgets.php:648
+#@ aps-text
+msgid "Don't Display"
+msgstr ""
+

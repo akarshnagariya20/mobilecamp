@@ -1,0 +1,17 @@
+/* 1200 CSS Styles APS plugin */
+.aps-container {max-width:1180px;}
+.aps-products-grid li {width:33.3333%;}
+.aps-products-list .aps-product-details {width:600px;}
+.aps-product-pic {width:50%;}
+.aps-gallery-thumbs li {width:25%;}
+.aps-main-features {width:50%;}
+.aps-flipper {height:132px;}
+.aps-flip-icon {line-height:110px;}
+.aps-related-products li {width:33.3333%;}
+.aps-rating-text-box {width:540px;}
+.aps-pub-rating li {width:25%;}
+.aps-user-rating li {width:25%;}
+#apsReviewForm .aps-text, #apsReviewForm .aps-textarea {width:620px;}
+.aps-current-dp, .aps-dropdown ul {width:220px;}
+.slider-aps {width:570px;}
+.aps-offer-title {width:460px;}
